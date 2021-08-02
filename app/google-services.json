@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174891519483",
+    "project_id": "pagoqr-e3f15",
+    "storage_bucket": "pagoqr-e3f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174891519483:android:b5208ac5ad9e4db093cf5e",
+        "android_client_info": {
+          "package_name": "com.example.pagosqrfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174891519483-d2l661m5b6cck02rcd8efa31htdqe7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMx9eSO9zkmDB3_CgKUrjEuKxDMqrGf64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174891519483-d2l661m5b6cck02rcd8efa31htdqe7h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
